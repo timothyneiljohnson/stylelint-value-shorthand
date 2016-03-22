@@ -35,17 +35,6 @@ a { /* Not OK */
 }
 ```
 
-With the `convention` option set to `'none'`:
-```css
-a { /* OK */
-  border: none
-}
-
-a { /* Not OK */
-  border: 0
-}
-```
-
 ### This rule applies to properties which are able to be written in shorthand.
 
 ```
