@@ -1,6 +1,6 @@
 {
   "name": "stylelint-value-shorthand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A stylelint custom rule to enforce use of shorthand values",
   "main": "index.js",
   "scripts": {
